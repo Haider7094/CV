@@ -1,1 +1,1 @@
-# CV This is the my biginners traning for VS Code.
+This is the full stack Web designing practice project. 
