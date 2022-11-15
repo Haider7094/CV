@@ -11,6 +11,15 @@ hr {
 h1 {
     color: #66bfb8;
 }
+h1:hover {
+    color: black;
+}
 h3 {
     color:#4f6188;
+}
+.image{
+    border-radius: 100;
+}
+.link:hover{
+    color: yellow;
 }
